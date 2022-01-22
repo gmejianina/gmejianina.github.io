@@ -1,5 +1,10 @@
-SQL Challenge - Week 1
 ---
+layout: post
+title: SQL Challenge - Week 1
+categories: [SQL]
+---
+##SQL Challenge - Week 1
+
 ![Danny's Diner Image](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 
 Danny has contacted us to help him answer some questions about his customers. He wants to know about their visiting and spending patterns, as well as their favorite items. He will use these insights to decide whether or not to expand his customer loyalty program. 
@@ -63,6 +68,7 @@ Customer C has only visited the restaurant twice.
 **3. What was the first item from the menu purchased by each customer?**
 
 Customer A had sushi has their first item.
+
 Customer B had curry, while Customer C had ramen.
 
 Each of our 3 customers had a distinct first dish at Danny's restaurant.
@@ -235,7 +241,9 @@ Right before becomming a member, customer B ordered sushi, while customer A orde
 **8. What is the total items and amount spent for each member before they became a member?**
 
 Before becomming a member:
+
 Customer B spent $40 and purchased 3 items
+
 Customer A spent $25 and purchased 2 items
 
 
@@ -264,7 +272,9 @@ Customer A spent $25 and purchased 2 items
 **9.  If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?**
 
 Customer B would have 940 points
+
 Customer A would have 860 points
+
 Customer C would have 360 points
 
 
@@ -292,7 +302,9 @@ Customer C would have 360 points
 **10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?**
 
 At the end of January
+
 Customer A has 1370 points
+
 Customer B has 940 points
 
     SELECT sales.customer_id,

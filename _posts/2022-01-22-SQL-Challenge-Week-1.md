@@ -3,13 +3,12 @@ layout: post
 title: SQL Challenge - Week 1
 categories: [SQL]
 ---
-##SQL Challenge - Week 1
 
 ![Danny's Diner Image](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 
 Danny has contacted us to help him answer some questions about his customers. He wants to know about their visiting and spending patterns, as well as their favorite items. He will use these insights to decide whether or not to expand his customer loyalty program. 
 
-If you would like to see the detailed premise of this case study, please visit https://8weeksqlchallenge.com/case-study-1/
+If you would like to see the detailed premise of this case study, click here https://8weeksqlchallenge.com/case-study-1/
 
 **1. What is the total amount each customer spent at the restaurant?**
 

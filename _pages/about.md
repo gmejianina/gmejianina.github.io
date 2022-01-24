@@ -3,27 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p align="center">
+  <img width="250" height="250" src="https://github.com/gmejianina/gmejianina.github.io/blob/master/images/me2.jpg">
+</p>
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hello!
+-----
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+My name is **Gabriel**. I graduated with a Master's in Data Analytics in 2019, and ever since I have continued my learning journey online.  
 
-## Features
+This blog is my attempt at having an online presence, documenting some of my projects, sharing things I learn, and ultimately giving something back to the community. 
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+If you would like to chat, don't hesitate to [send me a message on LinkedIn](https://www.linkedin.com/in/gabrielmejianina/) or [shoot me an email.](mailto:gmejia@outlook.com) 

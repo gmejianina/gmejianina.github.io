@@ -1,11 +1,8 @@
 ---
 layout: page
-title:
+title: Hello!
 permalink: /about/
 ---
-
-Hello!
------
 
 My name is **Gabriel**. I graduated with a Master's in Data Analytics in 2019, and ever since I have continued my learning journey online.  
 

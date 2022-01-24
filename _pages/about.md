@@ -3,7 +3,6 @@ layout: page
 title:
 permalink: /about/
 ---
-![A photo of me](https://github.com/gmejianina/gmejianina.github.io/blob/master/images/me2.jpg "Gabriel")
 
 Hello!
 -----
